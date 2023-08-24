@@ -1,6 +1,6 @@
 # Self-driving-car
 
-**Project Description: Self-Driving Car Training Using In-Browser Neural Networks on GitHub**
+**Project Description: Self-Driving Car Training Using In-Browser Neural Networks on GitHub(inspired from  Dr. Radu Mariescu-Istodo)**
 
 Welcome to a groundbreaking open-source project hosted on GitHub that pioneers the advancement of self-driving car technology through the utilization of in-browser neural networks. This project represents a convergence of cutting-edge machine learning, web development, and autonomous vehicle research, all aimed at democratizing the development of intelligent transportation systems.
 
