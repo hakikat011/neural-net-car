@@ -1,0 +1,11 @@
+{
+  "name": "self-driving-car-main",
+  "version": "1.0.0",
+  "description": "This is the code I wrote during the Self-driving car (no libraries) JavaScript course: <Link>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
